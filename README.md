@@ -1,1 +1,1 @@
-# AI--student-cimpanion
+# AI--student-companion
